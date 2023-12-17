@@ -4,7 +4,7 @@ def default():
     env_vars = []
     shelloutconfigs = []
 
-    shelloutconfigs.append('config0-hub:::github::clone')
+    shelloutconfigs.append('config0-publish:::github::clone')
 
     task['method'] = 'shelloutconfig'
     task['metadata'] = {'env_vars': env_vars,
