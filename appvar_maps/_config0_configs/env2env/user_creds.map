@@ -1,4 +1,0 @@
-DOCKER_USERNAME                    username
-DOCKER_PASSWORD                    password
-DOCKER_TOKEN                       token
-DOCKER_REGISTRY                    endpoint
